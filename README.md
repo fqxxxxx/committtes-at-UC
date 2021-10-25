@@ -1,5 +1,13 @@
 # committtes-at-UC
 
-committees 
+- committees 
 
-people 
+Human Development 
+
+NORC 
+
+Social Thought 
+
+
+
+- people 
