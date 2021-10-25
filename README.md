@@ -14,4 +14,4 @@ Social Thought
 
 - NORC 
 
-Harry Field 
+[Harry Field](https://github.com/fqxxxxx/committtes-at-UC/blob/main/people.md)
