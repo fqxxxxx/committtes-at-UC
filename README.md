@@ -4,7 +4,7 @@
 
 Human Development 
 
-NORC 
+[NORC](https://github.com/fqxxxxx/committtes-at-UC/blob/main/NORC.md) 
 
 Social Thought 
 
